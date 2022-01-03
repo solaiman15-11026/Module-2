@@ -1,0 +1,22 @@
+body{
+    background-color: #b32d2d;
+}
+
+p{
+    color: darkgreen;
+    background-color: darkorange;
+    height: 40px;
+}
+.sami{
+    color: chartreuse;
+}
+#maruf{
+    color: darkblue;
+}
+.harami{
+    background-color: darkred;
+}
+
+h3{
+    display: inline-block;
+}
